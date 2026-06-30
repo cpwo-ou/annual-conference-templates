@@ -1,4 +1,5 @@
-
+# CPWO Annual Conference 2026
+## 2nd Women & Girls’ Online Safety Conference
 
 How to submit your Camera-Ready paper:
 1. Select the type of contribution (abstract, poster, research paper or presentation proposal). This information should be clearly stated in the Camera-Ready email.
