@@ -1,7 +1,7 @@
 # CPWO Annual Conference 2026 - Camera Ready submissions
 ## 2nd Women & Girls’ Online Safety Conference
 
-How to submit your Camera-Ready paper:
+**How to submit your Camera-Ready paper:**
 1. Select the type of contribution (abstract, poster, research paper or presentation proposal). This information should be clearly stated in the Camera-Ready email.
 2. Download the template format you are more comfortable working with.
    - Docx format - Microsoft Word compatible, or
@@ -10,9 +10,9 @@ How to submit your Camera-Ready paper:
 5. Export your file as a PDF file.
 6. Submit your file as indicated by the Proceedings Chairs.
 
-⚠️ Important:
+⚠️ **Important:**
    - Make sure you edit the template with the corresponding authors' names, including the footnote; do not change fonts and margins.
-   - Make sure you have not changed the footnote with the details of the Conference. It must look like this: *WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom*
+   - Make sure you have not changed the footnote with the details of the Conference. It must look like this: ***WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom***
 
 Please find the corresponding template for the type of submission here:
 
