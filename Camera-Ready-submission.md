@@ -14,7 +14,7 @@ Please find the corresponding template for the type of submission here:
 
 | **Type of submission** | **Length** | **Template (docx format)** | **Template (LaTeX format)** |
 |:---|:---|:---|:---|
-| Abstract/Summary | Up to 300 words | [Link](https://github.com/cpwo-ou/annual-conference-templates/raw/5b0d45eb1b738f7adb5975ebf746feecab4cf619/Conference-abstract-template.docx)) | [Latex template](https://github.com/cpwo-ou/annual-conference-templates/blob/48e407f75c563af48f43fe9883aa0a3837ac4329/CPWO_abstract_template.zip) |
+| Abstract/Summary | Up to 300 words | [Link](https://github.com/cpwo-ou/annual-conference-templates/raw/5b0d45eb1b738f7adb5975ebf746feecab4cf619/Conference-abstract-template.docx) | [Latex template](https://github.com/cpwo-ou/annual-conference-templates/raw/refs/heads/main/CPWO_abstract_template.zip) |
 | Presentation proposals | Up to 300 words (make sure you include the link to the published version of the paper) | Link | Link |
 | Posters | Up to 2 pages, excluding references | Link | Link |
 | Research paper | Up to 10 pages, excluding references | Link | <a href="https://github.com/cpwo-ou/annual-conference-templates/blob/f5b4bac96605d727427854e607aebf39c47b45d6/CPWO_short_paper_template.zip" download>Latex template</a> |
