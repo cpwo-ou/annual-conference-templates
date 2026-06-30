@@ -6,9 +6,12 @@ How to submit your Camera-Ready paper:
 2. Download the template format you are more comfortable working with.
    - Docx format - Microsoft Word compatible, or
    - LateX format - if you are familiar with Overleaf or any LateX editor.
-3. Edit the template. Please do not edit any of the following sections:
-4. Export your file as a PDF file.
-5. Submit your file as indicated by the Proceedings Chairs.
+3. Edit the template.
+   Important:
+   Make sure you edit the template with the corresponding authors names-including the footnote, do not change fonts and margins.
+   Make sure you have not changed the footnote with the details of the Conference: *WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom*
+5. Export your file as a PDF file.
+6. Submit your file as indicated by the Proceedings Chairs.
 
 Please find the corresponding template for the type of submission here:
 
