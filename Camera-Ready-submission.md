@@ -13,7 +13,8 @@
 
 ⚠️ **Format:**
    - Make sure you edit the template with the corresponding authors' names, including the authors' footnote.
-   - The title should use the emphasizing capitalised style, where the first letters of all words are capitalised. Example: "The Submission Title", "**T**he **T**emplate for the **W**omen & **G**irls **O**nline **S**afety **C**onference **S**ubmission". See more examples here: [APA Title Capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
+   - The title should use the ***emphasizing capitalised style***, where the first letters of words in the title are capitalised.
+     Example: "The Submission Title", "The Template for the Women & Girls Online Safety Conference Submission". See more examples here: [APA Title Capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
    - Please do not change fonts, font size and margins.
    - Make sure the footnote with the Conference details looks like this: ***WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom***
    - If you are submitting a Presentation Proposal, make sure you have included the link to the published version of the paper
