@@ -8,7 +8,8 @@
    - LateX format - if you are familiar with Overleaf or any LateX editor.
 3. Edit the template.
 5. Export your file as a PDF file.
-6. Submit your file as indicated by the Proceedings Chairs.
+6. Name your file following this convention: [ID]-[MAIN AUTHOR LASTNAME]-[MAIN AUTHOR NAME].pdf
+7. Submit your file as indicated by the Proceedings Chairs.
 
 ⚠️ **Important:**
    - Make sure you edit the template with the corresponding authors' names, including the authors' footnote.
