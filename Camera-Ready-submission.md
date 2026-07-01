@@ -2,7 +2,7 @@
 ## 2nd Women & Girls’ Online Safety Conference
 
 **How to submit your Camera-Ready paper:**
-1. Select the type of contribution (abstract, poster, research paper or presentation proposal). This information should be clearly stated in the Camera-Ready email.
+1. Identify the type of contribution you submitted: ***abstract, poster, research paper or presentation proposal***. This information should be clearly stated in the Camera-Ready email.
 2. Download the template format you are more comfortable working with.
    - Docx format - Microsoft Word compatible, or
    - LateX format - if you are familiar with Overleaf or any LateX editor.
