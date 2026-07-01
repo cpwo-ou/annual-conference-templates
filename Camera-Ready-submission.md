@@ -13,6 +13,8 @@
 ⚠️ **Important:**
    - Make sure you edit the template with the corresponding authors' names, including the footnote; do not change fonts and margins.
    - Make sure you have not changed the footnote with the details of the Conference. It must look like this: ***WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom***
+   - If you are submitting a Presentation Proposal, make sure you have included the link to the published version of the paper
+   - If you are submitting an Abstract, please make sure you delete the "Presentation Proposal Link" section in the template before creating the PDF file.
 
 Please find the corresponding template for the type of submission here:
 
