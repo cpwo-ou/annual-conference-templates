@@ -21,7 +21,9 @@
    - If you are submitting an Abstract, please make sure you delete the "Presentation Proposal Link" section in the template before creating the PDF file.
 
 ⚠️ **Important:**
+```
 Please review your final file carefully before submitting. Once published, contributions cannot be modified or replaced under any circumstances. Authors bear full responsibility for the accuracy of all content, including author names, affiliations, title, abstract, keywords and references. Errors identified after publication cannot be corrected, so please take the time to proofread thoroughly before sending your camera-ready version.
+```
 
 Please find the corresponding template for the type of submission here:
 
