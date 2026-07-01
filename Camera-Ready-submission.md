@@ -12,7 +12,7 @@
 7. Submit your file as indicated by the Proceedings Chairs.
 
 ⚠️ **Format:**
-   - Make sure you edit the template with the corresponding authors' names, including the authors' footnote.
+   - Make sure you edit the template with the corresponding authors' names, including the authors' name in the footnote.
    - The title should use the ***emphasizing capitalised style***, where the first letters of words in the title are capitalised.
      Example: "The Submission Title", "The Template for the Women & Girls Online Safety Conference Submission". See more examples here: [APA Title Capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
    - Please do not change fonts, font size and margins.
