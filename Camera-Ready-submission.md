@@ -13,8 +13,9 @@
    - LateX format - if you are familiar with Overleaf or any LateX editor.
 3. Edit the template.
 5. Export your document as a PDF file.
-6. Name your file following this convention: [LASTNAME]-[NAME].pdf (Only the main author's name and surname are sufficient. If you have more than one submission accepted, add the first word of your submission title to the file name -> [LASTNAME]-[NAME]-[TITLE-FIRST-WORD].pdf)
-7. Submit your file as indicated by the Proceedings Chairs.
+6. Name your file following this convention:
+   - [LASTNAME]-[NAME].pdf (Only the main author's name and surname are sufficient. If you have more than one submission accepted, add the first word of your submission title to the file name -> [LASTNAME]-[NAME]-[TITLE-FIRST-WORD].pdf)
+8. Submit your file as indicated by the Proceedings Chairs.
 
 ### ⚠️ **File Requirements:**
    - Make sure you edit the template with the corresponding authors' names, including the authors' names in the footnote.
