@@ -18,7 +18,7 @@
    - [LASTNAME]-[NAME].pdf (Only the main author's name and surname are sufficient. If you have more than one submission accepted, add the first word of your submission title to the file name -> [LASTNAME]-[NAME]-[TITLE-FIRST-WORD].pdf)
 8. Submit your file as indicated by the Proceedings Chairs.
 
-### File Requirements ⚠️ 
+### File Requirements
 
    - Make sure you edit the template with the corresponding authors' names, including the authors' names in the footnote.
    - The title of your submission should use the ***emphasizing capitalised style***, where the first letters of words in the title are capitalised.
