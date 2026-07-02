@@ -1,7 +1,11 @@
 # CPWO Annual Conference 2026 - Camera Ready submissions
 ## 2nd Women & Girls’ Online Safety Conference
 
-**How to submit your Camera-Ready paper:**
+### Table of contents
+- [How to submit your camera-ready paper](#how-to)
+- [Templates] (#templates)
+  
+### **How to submit your Camera-Ready paper:**
 1. Identify the type of contribution you will submit as your camera-ready paper: ***abstract, poster, research paper or presentation proposal***. You can also find this information clearly stated in the Camera-Ready submission email.
 2. Download the template you are more comfortable working with. See the table below.
    - Docx format - Microsoft Word compatible, or
@@ -23,7 +27,7 @@
 > [!IMPORTANT]
 > Please review your final file carefully before submitting. Once published, contributions cannot be modified or replaced under any circumstances. Authors bear full responsibility for the accuracy of all content, including author names, affiliations, title, abstract, keywords and references. Errors identified after publication cannot be corrected, so please take the time to proofread thoroughly before sending your camera-ready version.
 
-
+### Templates
 Please find the corresponding template for the type of submission here:
 
 | **Type of submission** | **Length** | **Template (docx format)** | **Template (LaTeX format)** |
