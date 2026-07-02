@@ -2,11 +2,12 @@
 ## 2nd Women & Girls’ Online Safety Conference
 
 ### Table of contents
-- [How to submit your Camera-Ready Paper](#how-to)
+- [How to submit your Camera-Ready Paper](#how-to-submit-your-camera-ready-paper)
 - [File Requirements](#file-requirements)
 - [Templates](#templates)
   
 ### How to submit your Camera-Ready Paper
+
 1. Identify the type of contribution: ***abstract, poster, research paper or presentation proposal***. You can also find this information clearly stated in the Camera-Ready submission email.
 2. Download the template for the type of contribution. Make sure you select the format you are more comfortable working with. See the table below.
    - Docx format - Microsoft Word compatible, or
@@ -18,6 +19,7 @@
 8. Submit your file as indicated by the Proceedings Chairs.
 
 ### File Requirements ⚠️ 
+
    - Make sure you edit the template with the corresponding authors' names, including the authors' names in the footnote.
    - The title of your submission should use the ***emphasizing capitalised style***, where the first letters of words in the title are capitalised.
      Example: "The Submission Title", "The Template for the WGOS Conference". See more examples here: [APA Title Capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
