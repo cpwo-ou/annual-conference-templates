@@ -23,7 +23,7 @@
      Example: "The Submission Title", "The Template for the WGOS Conference". See more examples here: [APA Title Capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
    - Please do not change fonts, font size and margins.
    - Make sure the footnote with the Conference details looks like this:
-     ***WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom***
+     ***"WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom."***
    - If you are submitting a Presentation Proposal, make sure you have included the link to the published version of the paper.
    - If you are submitting an Abstract, please make sure you delete the "Presentation Proposal Link" section in the template before creating the PDF file.
 
