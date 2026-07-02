@@ -22,7 +22,9 @@
 
 - Please do not change fonts, font size and margins.
 - The title of your submission should use the ***emphasizing capitalised style***, where the first letters of words in the title are capitalised.
-     Example: "The Submission Title", "The Template for the WGOS Conference". See more examples here: [APA Title Capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
+  - ✅ Correct: "The Submission Title", "The Template for the WGOS Conference".
+  - ❌ Incorrect: "The submission title, "The template for the WGOS conference".
+  - See more examples here: [APA Title Capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
 - Make sure corresponding authors' names are correct. This includes the authors' names in the footnote.
 - Make sure the Conference details look like this in the footnote section:
      ***"WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom."***
