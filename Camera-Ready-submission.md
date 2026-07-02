@@ -7,7 +7,7 @@
 - [Templates](#templates)
   
 ### **How to submit your Camera-Ready paper:**
-1. Identify the type of contribution you will submit as your camera-ready paper: ***abstract, poster, research paper or presentation proposal***. You can also find this information clearly stated in the Camera-Ready submission email.
+1. Identify the type of contribution: ***abstract, poster, research paper or presentation proposal***. You can also find this information clearly stated in the Camera-Ready submission email.
 2. Download the template you are more comfortable working with. See the table below.
    - Docx format - Microsoft Word compatible, or
    - LateX format - if you are familiar with Overleaf or any LateX editor.
