@@ -28,7 +28,7 @@
 - Make sure corresponding authors' names are correct. This includes the authors' names in the footnote.
 - Make sure the Conference details look like this in the footnote section:
      ***"WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom."***
-- If you are submitting a Presentation Proposal, make sure you have included the link to the published version of the paper.
+- If you are submitting a Presentation Proposal, make sure you have included the ***"Presentation Proposal Link"*** section and the link to the published version of the paper.
 - If you are submitting an Abstract, please make sure you delete the "Presentation Proposal Link" section in the template before creating the PDF file.
 
 Please ensure your camera-ready file meets the following requirements:
