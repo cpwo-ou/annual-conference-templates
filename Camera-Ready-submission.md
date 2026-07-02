@@ -39,6 +39,8 @@ Please ensure your camera-ready file meets the following requirements:
 
 ### Templates
 Please find the corresponding template for the type of submission here:
+> [!NOTE]
+> If you already used our template for your original submission, no reformatting is needed — the template has not changed. Just make sure your file meets the requirements above before sending the final camera-ready paper.
 
 | **Type of submission** | **Length** | **Template (docx format)** | **Template (LaTeX format)** |
 |:---|:---|:---|:---|
