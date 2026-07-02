@@ -40,7 +40,7 @@ Please ensure your camera-ready file meets the following requirements:
 ### Templates
 
 > [!NOTE]
-> If you already used our template for your original submission, no reformatting is needed — the template has not changed. Just make sure your file meets the requirements above before sending the final camera-ready paper.
+> If you already used our template for your original submission, no reformatting is needed — the template has not changed. Just make sure your file meets the [requirements](#file-requirements) above before sending the final camera-ready paper.
 
 | **Type of submission** | **Length** | **Template (docx format)** | **Template (LaTeX format)** |
 |:---|:---|:---|:---|
