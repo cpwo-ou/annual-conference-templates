@@ -38,7 +38,7 @@ Please ensure your camera-ready file meets the following requirements:
 > Please review your final file carefully before submitting. Once published, contributions cannot be modified or replaced under any circumstances. Authors bear full responsibility for the accuracy of all content, including author names, affiliations, title, abstract, keywords and references. Errors identified after publication cannot be corrected, so please take the time to proofread thoroughly before sending your camera-ready version.
 
 ### Templates
-Please find the corresponding template for the type of submission here:
+
 > [!NOTE]
 > If you already used our template for your original submission, no reformatting is needed — the template has not changed. Just make sure your file meets the requirements above before sending the final camera-ready paper.
 
