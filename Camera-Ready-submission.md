@@ -16,7 +16,7 @@
 6. Name your file following this convention: [LASTNAME]-[NAME].pdf (Only the main author's name and surname are sufficient. If you have more than one submission accepted, add the first word of your submission title to the file name -> [LASTNAME]-[NAME]-[TITLE-FIRST-WORD].pdf)
 7. Submit your file as indicated by the Proceedings Chairs.
 
-⚠️ ### **File Requirements:**
+### ⚠️ **File Requirements:**
    - Make sure you edit the template with the corresponding authors' names, including the authors' names in the footnote.
    - The title should use the ***emphasizing capitalised style***, where the first letters of words in the title are capitalised.
      Example: "The Submission Title", "The Template for the Women & Girls Online Safety Conference Submission". See more examples here: [APA Title Capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
@@ -24,7 +24,6 @@
    - Make sure the footnote with the Conference details looks like this: ***WGOS’26: Women & Girls’ Online Safety Conference, Centre for Protecting Women Online, September 09–10, 2026, Milton Keynes, United Kingdom***
    - If you are submitting a Presentation Proposal, make sure you have included the link to the published version of the paper.
    - If you are submitting an Abstract, please make sure you delete the "Presentation Proposal Link" section in the template before creating the PDF file.
-   - FILE REQUIREMENTS
 
 Please ensure your camera-ready file meets the following requirements:
 - Format: PDF only
