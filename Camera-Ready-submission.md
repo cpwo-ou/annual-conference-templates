@@ -8,7 +8,7 @@
    - LateX format - if you are familiar with Overleaf or any LateX editor.
 3. Edit the template.
 5. Export your file as a PDF file.
-6. Name your file following this convention: [MAIN AUTHOR LASTNAME]-[MAIN AUTHOR NAME].pdf (If you have more than one submission accepted, add the first word of your submission title to the file name -> [MAIN AUTHOR LASTNAME]-[MAIN AUTHOR NAME]-[TITLE-FIRST-WORD].pdf)
+6. Name your file following this convention: [LASTNAME]-[NAME].pdf (Only the main author's name and surname are sufficient. If you have more than one submission accepted, add the first word of your submission title to the file name -> [MAIN AUTHOR LASTNAME]-[MAIN AUTHOR NAME]-[TITLE-FIRST-WORD].pdf)
 7. Submit your file as indicated by the Proceedings Chairs.
 
 ⚠️ **Format:**
